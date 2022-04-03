@@ -1,17 +1,17 @@
-id,_index,nameZH,nameEN,nameModeZH,img,fst_season,ava_season,pl_num,op_lim,map,mode,pack,round,spclRule
-Outbreak,1,爆发,Outbreak,,Outbreak_img.png,,Y3S1,PVE 3人,true,"谢拉郡老兵支翼, 谢拉郡天堂, 巢穴",,奇美拉行动包,,true
-疯狂豪宅,2,疯狂豪宅,Mad House Event,,Mad House Event_img.png,,Y3S3,5V5,true,[[芝加哥豪宅/旧版|疯狂芝加哥豪宅]],[[肃清威胁模式]],“Mad House Event”补给包,,false
-通往邀请赛之路/2019,3,通往邀请赛之路 2019,Road To S.I. 2019,,Road To S.I. 2019_img.jpg,,Y3S4,5V5,false,[[地图|排名战地图池]],[[炸弹模式]],2019收藏包,[[联赛赛制]],false
-Rainbow Is Magic,4,彩虹魔法,Rainbow Is Magic,,Rainbow Is Magic_img.jpg,Y4S1,"Y4S1, Y6S1",5V5,true,[[总统专机|萌军一号]],[[人质模式]],“Rainbow Is Magic”补给包,,false
-"Showdown ",5,西部对决,Showdown,,Showdown_img.jpg,Y4S2,"Y4S2, Y6S3",3V3,true,[[真理之堡]],[[肃清威胁模式]],“Showdown”补给包,五局三胜,true
-怪医诅咒,6,怪医诅咒,Doktor's Curse,捉迷藏,Doktor's Curse_img.jpeg,Y4S3,"Y4S3, Y6S3",5V5,true,[[主题乐园（旧版）|怪医古堡]],歼灭,“怪医诅咒”补给包,五局三胜,true
-纸房子,7,纸房子,Money Heist,,Money Heist_img.jpg,,Y4S3,5V5,false,[[银行]],[[人质模式]],,五局三胜,false
-通往邀请赛之路/2020,8,通往邀请赛之路 2020,Road To S.I. 2020,,Road To S.I. 2020_img.jpeg,,Y4S4,5V5,false,[[竞技场（2020）]],[[炸弹模式]],,[[非排名对战]],false
-激战风云,9,激战风云,The Grand Larceny,失窃物,The Grand Larceny_img.jpeg,,Y5S1,5V5,true,[[赫里福基地（旧版）|总部]],,“The Grand Larceny”补给包,,true
-M.U.T.E协议,10,M.U.T.E协议,M.U.T.E Protocol,,M.U.T.E Protocol_img.png,,Y5S2,5V5,true,[[塔楼|M.U.T.E.通讯塔楼]],,“M.U.T.E 协议”补给包,五局三胜,true
-慌糖惊魂夜,11,慌糖惊魂夜,sugar fright,甜蜜狩猎,sugar fright_img.jpg,,Y5S3,5V5,true,[[邻里社区]],击杀确认,“甜蜜狩猎”补给包,一回合,true
-通往邀请赛之路/2021,12,通往邀请赛之路 2021,Road To S.I. 2021,,Road To S.I. 2021_img.jpg,,Y5S4,5V5,false,[[竞技场（2021）]],[[炸弹模式]],,[[非排名对战]],false
-Apocalypse,13,天启,Apocalypse,容器罐,Apocalypse_img.png,,Y6S1,5V5,true,[[荒漠服务站|伊甸旅馆]],,“Apocalypse”补给包,五局三胜,true
-异种危机,14,异种危机,Containment,破坏孵化囊,Containment_img.png,,Y6S2,5V5,true,[[领事馆]],,“异种危机”补给包,五局三胜,true
-雪地大乱斗,15,雪地大乱斗,SNOW BRAWL,争夺旗帜,SNOW BRAWL_img.png,,Y6S4,5V5,true,[[木屋]]外部的特殊场地,争夺旗帜,“雪地大乱斗”补给包,一回合 无准备阶段,true
-通往邀请赛之路/2022,16,通往邀请赛之路 2022,Road To S.I. 2022,,Road To S.I. 2022_img.png,,Y6S4,5V5,false,[[竞技场（2021）]]、[[竞技场（2020）]]（黑夜）,[[炸弹模式]],,[[非排名对战]],false
+id,_index,nameZH,nameEN,nameModeZH,img,fstSeason,avaSeason,plNum,opLim,map,mode,pack,round,spclRule
+Outbreak,1,爆发,Outbreak,,Outbreak_img.png,,Y3S1：奇美拉行动,PVE 3人,true,[[谢拉郡老兵支翼]]<br/>[[谢拉郡天堂]]<br/>[[巢穴]],,奇美拉行动包,,true
+疯狂豪宅,2,疯狂豪宅,Mad House Event,,Mad House Event_img.png,,Y3S3：暗空行动,5V5,true,[[芝加哥豪宅/旧版|疯狂芝加哥豪宅]],[[肃清威胁模式]],“Mad House Event”补给包,,false
+通往邀请赛之路/2019,3,通往邀请赛之路 2019,Road To S.I. 2019,,Road To S.I. 2019_img.jpg,,Y3S4：风城行动,5V5,false,[[地图|排名战地图池]],[[炸弹模式]],2019收藏包,[[联赛赛制]],false
+Rainbow Is Magic,4,彩虹魔法,Rainbow Is Magic,,Rainbow Is Magic_img.jpg,Y4S1：燃烧地平线行动,Y4S1：燃烧地平线行动<br/>Y6S1：猩红劫案行动,5V5,true,[[总统专机|萌军一号]],[[人质模式]],“Rainbow Is Magic”补给包,,false
+Showdown,5,西部对决,Showdown,,Showdown_img.jpg,Y4S2：幻境行动,Y4S2：幻境行动<br/>Y6S3：水晶护卫行动,3V3,true,[[真理之堡]],[[肃清威胁模式]],“Showdown”补给包,五局三胜,true
+怪医诅咒,6,怪医诅咒,Doktor's Curse,捉迷藏,Doktor's Curse_img.jpeg,Y4S3：余烬重燃行动,Y4S3：余烬重燃行动<br/>Y6S3：水晶护卫行动,5V5,true,[[主题乐园（旧版）|怪医古堡]],歼灭,“怪医诅咒”补给包,五局三胜,true
+纸房子,7,纸房子,Money Heist,,Money Heist_img.jpg,,Y4S3：余烬重燃行动,5V5,false,[[银行]],[[人质模式]],,五局三胜,false
+通往邀请赛之路/2020,8,通往邀请赛之路 2020,Road To S.I. 2020,,Road To S.I. 2020_img.jpeg,,Y4S4：幻变海潮行动,5V5,false,[[竞技场（2020）]],[[炸弹模式]],,[[非排名对战]],false
+激战风云,9,激战风云,The Grand Larceny,失窃物,The Grand Larceny_img.jpeg,,Y5S1：虚空边缘行动,5V5,true,[[赫里福基地（旧版）|总部]],,“The Grand Larceny”补给包,,true
+M.U.T.E协议,10,M.U.T.E协议,M.U.T.E Protocol,,M.U.T.E Protocol_img.png,,Y5S2：钢铁洪流行动,5V5,true,[[塔楼|M.U.T.E.通讯塔楼]],,“M.U.T.E 协议”补给包,五局三胜,true
+慌糖惊魂夜,11,慌糖惊魂夜,sugar fright,甜蜜狩猎,sugar fright_img.jpg,,Y5S3：暗影传承行动,5V5,true,[[邻里社区]],击杀确认,“甜蜜狩猎”补给包,一回合,true
+通往邀请赛之路/2021,12,通往邀请赛之路 2021,Road To S.I. 2021,,Road To S.I. 2021_img.jpg,,Y5S4：霓虹黎明行动,5V5,false,[[竞技场（2021）]],[[炸弹模式]],,[[非排名对战]],false
+Apocalypse,13,天启,Apocalypse,容器罐,Apocalypse_img.png,,Y6S1：猩红劫案行动,5V5,true,[[荒漠服务站|伊甸旅馆]],,“Apocalypse”补给包,五局三胜,true
+异种危机,14,异种危机,Containment,破坏孵化囊,Containment_img.png,,Y6S2：北境航星行动,5V5,true,[[领事馆]],,“异种危机”补给包,五局三胜,true
+雪地大乱斗,15,雪地大乱斗,SNOW BRAWL,争夺旗帜,SNOW BRAWL_img.png,,Y6S4：登峰造极行动,5V5,true,[[木屋]]外部的特殊场地,争夺旗帜,“雪地大乱斗”补给包,一回合 无准备阶段,true
+通往邀请赛之路/2022,16,通往邀请赛之路 2022,Road To S.I. 2022,,Road To S.I. 2022_img.png,,Y6S4：登峰造极行动,5V5,false,[[竞技场（2021）]]<br/>[[竞技场（2020）]]（黑夜）,[[炸弹模式]],,[[非排名对战]],false
