@@ -1,0 +1,28 @@
+<%-- [PAGE_INFO]
+Comment=#Please do not remove this struct. It's record contains some important informations of edit. This struct will be removed automatically after you push edits.#
+PageTitle=#模板:Infobox arcade#
+PageID=#5343#
+RevisionID=#23863#
+ContentModel=#wikitext#
+ContentFormat=#text/x-wiki#
+[END_PAGE_INFO] --%>
+
+<includeonly>{{SMongo/Ask
+|table = ArcadeMode.tabx
+|query = id::{{{1|{{PAGENAME}}}}}
+|?id=y
+|?nameZH = y
+|?nameEN=y
+|?img=1
+|?fstSeason=1
+|?avaSeason=1
+|?plNum=1
+|?opLim=1
+|?map=1
+|?mode=1
+|?round=1
+|format =template
+|named args = yes
+|template = Infobox arcade/style
+|mainlabel = -
+}}</includeonly><noinclude>{{documentation}}</noinclude>

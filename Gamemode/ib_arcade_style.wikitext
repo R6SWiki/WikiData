@@ -1,20 +1,18 @@
 <%-- [PAGE_INFO]
 Comment=#Please do not remove this struct. It's record contains some important informations of edit. This struct will be removed automatically after you push edits.#
-PageTitle=#模板:Infobox event/style#
-PageID=#5326#
-RevisionID=#23785#
+PageTitle=#模板:Infobox arcade/style#
+PageID=#5342#
+RevisionID=#23862#
 ContentModel=#wikitext#
 ContentFormat=#text/x-wiki#
 [END_PAGE_INFO] --%>
 
 <includeonly>{{Infobox
-|bodyclass=infobox-event
-|title={{{?nameZH|}}}{{#if:{{{?nameModeZH|}}}|<br/><small>{{{?nameModeZH|}}}</small>}}
+|bodyclass=infobox-arcade
+|title=<small>{{{?nameEN|}}}</small><br/>{{{?nameZH|}}}
 |image=[[文件:{{{?img|}}}|300px]]
 |caption=
 |header2=
-|label3=英文名称
-|data3={{{?nameEN|}}}
 |label5=地图名称
 |data5={{{?map|}}}
 |label10=游戏模式
@@ -31,10 +29,10 @@ ContentFormat=#text/x-wiki#
 |data60=
 |label70=干员限制
 |data70={{#ifeq:{{{?opLim|}}}|1|有|无}}
-|label80=特殊规则
-|data80={{#ifeq:{{{?spclRule|}}}|1|有|无}}
-|label90=限时收藏包
-|data90={{{?pack|}}}
+|label80=
+|data80=
+|label90=
+|data90=
 |label100=
 |data100=
 |header101='''<small>[[游戏模式|全部游戏模式]]</small>'''
@@ -42,5 +40,5 @@ ContentFormat=#text/x-wiki#
 {{#ifeq:{{NAMESPACENUMBER}}|0|
 <!--如果页面是main名字空间则添加以下分类（或smw信息）-->
 {{DISPLAYTITLE:{{{?name|}}}}}
-[[分类:彩虹六号：围攻]][[分类:游戏资料]][[分类:限时活动]][[分类:游戏模式]]
+[[分类:彩虹六号：围攻]][[分类:游戏资料]][[分类:街机模式]][[分类:游戏模式]]
 }}</includeonly><noinclude>[[Category:模板]][[Category:信息卡模板]]</noinclude>
