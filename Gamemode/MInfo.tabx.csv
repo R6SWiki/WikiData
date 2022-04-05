@@ -1,0 +1,32 @@
+id,_index,"name_cn",name,link,type,image
+Outbreak,1,"爆发",Outbreak,Outbreak,event,Outbreak_img_fit.png
+疯狂豪宅,2,"疯狂豪宅",Mad House Event,疯狂豪宅,event,Mad House Event_img_fit.png
+通往邀请赛之路/2019,3,"通往邀请赛之路 2019",Road To S.I. 2019,通往邀请赛之路/2019,event,Road To S.I. 2019_img_fit.jpg
+Rainbow Is Magic,4,"彩虹魔法",Rainbow Is Magic,Rainbow Is Magic,event,Rainbow Is Magic_img_fit.jpg
+Showdown,5,"西部对决",Showdown,Showdown,event,Showdown_img_fit.jpg
+怪医诅咒,6,"怪医诅咒",Doktor's Curse,怪医诅咒,event,Doktor's Curse_img_fit.jpg
+纸房子,7,"纸房子",Money Heist,纸房子,event,Money Heist_img_fit.jpg
+通往邀请赛之路/2020,8,"通往邀请赛之路 2020",Road To S.I. 2020,通往邀请赛之路/2020,event,Road To S.I. 2020_img_fit.jpg
+激战风云,9,"激战风云",The Grand Larceny,激战风云,event,The Grand Larceny_img_fit.jpg
+M.U.T.E协议,10,"M.U.T.E协议",M.U.T.E Protocol,M.U.T.E协议,event,M.U.T.E Protocol_img_fit.png
+慌糖惊魂夜,11,"慌糖惊魂夜",sugar fright,慌糖惊魂夜,event,sugar fright_img_fit.jpg
+通往邀请赛之路/2021,12,"通往邀请赛之路 2021",Road To S.I. 2021,通往邀请赛之路/2021,event,Road To S.I. 2021_img_fit.jpg
+Apocalypse,13,"天启",Apocalypse,Apocalypse,event,Apocalypse_img_fit.png
+异种危机,14,"异种危机",Containment,异种危机,event,Containment_img_fit.png
+雪地大乱斗,15,"雪地大乱斗",SNOW BRAWL,雪地大乱斗,event,SNOW BRAWL_img_fit.png
+通往邀请赛之路/2022,16,"通往邀请赛之路 2022",Road To S.I. 2022,通往邀请赛之路/2022,event,Road To S.I. 2022_img_fit.png
+黄金枪,17,"黄金枪",Golden Gun,黄金枪,arcade,Godengun arcade_fit.png
+消耗战,18,"消耗战",Attrition,消耗战,arcade,Attrition arcade_fit.png
+传承,19,"传承",Legacy,传承,arcade,Legacy arcade_fit.png
+爆头模式,20,"爆头模式",Headshot,爆头模式,arcade,Headshot arcade_fit.png
+人质,21,"人质",Hostage,人质模式,mode,Hostage mode_fit.jpg
+肃清威胁,22,"肃清威胁",Secure Area,肃清威胁模式,mode,Secure area mode_fit.jpg
+炸弹,23,"炸弹",Bomb,炸弹模式,mode,Bomb mode_fit.jpg
+团队死斗,24,"团队死斗",Team Deathmatch,团队死斗,mode,Team deathmatch mode_fit.png
+快速对战,25,"快速对战",Quick Match,快速对战,playlist,Quick match playlist_fit.jpg
+非排名对战,26,"非排名对战",Unranked,非排名对战,playlist,Unranked playlist_fit.jpg
+排名战,27,"排名战",Ranked,排名战,playlist,Ranked playlist_fit.jpg
+情景训练,28,"情景训练",Situations,情景训练,playlist,Situations playlist_fit.jpg
+新进玩家,29,"新进玩家",Newcomer,新进玩家,playlist,Newcomer playlist_fit.jpg
+训练场,30,"训练场（猎恐）",Training Grounds,训练场,playlist,Training Grounds playlist_fit.jpg
+自定义游戏,31,"自定义游戏",Custom Game,自定义游戏,playlist,Custom Game playlist_fit.jpg
